@@ -1,0 +1,6 @@
+# Key    | Value                    | Pointer
+DMX      | Conceptinetics.h          | DMX
+DMX_Slave | Conceptinetics.h         | DMX_Slave
+DMX_Master | Conceptinetics.h        | DMX_Master
+DMX_Slave via RS485 | Conceptinetics.h | DMX_Slave
+DMX_Master via RS485 | Conceptinetics.h | DMX_Master
